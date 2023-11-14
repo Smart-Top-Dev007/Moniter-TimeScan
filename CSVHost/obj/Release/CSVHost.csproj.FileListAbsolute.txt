@@ -1,0 +1,9 @@
+F:\Work\Monitoring\MonitorProject\CSVHost\obj\Release\CSVHost.csproj.CoreCompileInputs.cache
+F:\Work\Monitoring\MonitorProject\CSVHost\bin\Release\CRMHost.exe.config
+F:\Work\Monitoring\MonitorProject\CSVHost\bin\Release\CRMHost.exe
+F:\Work\Monitoring\MonitorProject\CSVHost\bin\Release\CRMHost.pdb
+F:\Work\Monitoring\MonitorProject\CSVHost\obj\Release\CRMHost.exe
+F:\Work\Monitoring\MonitorProject\CSVHost\obj\Release\CRMHost.pdb
+F:\Work\Monitoring\Target\CRMHost.exe.config
+F:\Work\Monitoring\Target\CRMHost.exe
+F:\Work\Monitoring\Target\CRMHost.pdb

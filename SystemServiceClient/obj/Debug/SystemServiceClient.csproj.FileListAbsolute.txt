@@ -1,0 +1,11 @@
+F:\Work\Monitoring\MonitorProject\SystemServiceClient\bin\Debug\SystemServiceClient.exe
+F:\Work\Monitoring\MonitorProject\SystemServiceClient\bin\Debug\SystemServiceClient.pdb
+F:\Work\Monitoring\MonitorProject\SystemServiceClient\bin\Debug\ProcessExtensions.dll
+F:\Work\Monitoring\MonitorProject\SystemServiceClient\obj\Debug\SystemServiceClient.ProjectInstaller.resources
+F:\Work\Monitoring\MonitorProject\SystemServiceClient\obj\Debug\SystemServiceClient.Service1.resources
+F:\Work\Monitoring\MonitorProject\SystemServiceClient\obj\Debug\SystemServiceClient.csproj.GenerateResource.cache
+F:\Work\Monitoring\MonitorProject\SystemServiceClient\obj\Debug\SystemServiceClient.csproj.CoreCompileInputs.cache
+F:\Work\Monitoring\MonitorProject\SystemServiceClient\obj\Debug\SystemServiceClient.csproj.CopyComplete
+F:\Work\Monitoring\MonitorProject\SystemServiceClient\obj\Debug\SystemServiceClient.exe
+F:\Work\Monitoring\MonitorProject\SystemServiceClient\obj\Debug\SystemServiceClient.pdb
+F:\Work\Monitoring\MonitorProject\SystemServiceClient\obj\Debug\SystemServiceClient.csprojAssemblyReference.cache

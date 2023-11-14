@@ -1,0 +1,9 @@
+F:\Work\Monitoring\MonitorProject\CMonAutoSetup\bin\Release\CMonAutoSetup.exe.config
+F:\Work\Monitoring\MonitorProject\CMonAutoSetup\bin\Release\CMonAutoSetup.exe
+F:\Work\Monitoring\MonitorProject\CMonAutoSetup\bin\Release\CMonAutoSetup.pdb
+F:\Work\Monitoring\MonitorProject\CMonAutoSetup\obj\Release\CMonAutoSetup.csproj.CoreCompileInputs.cache
+F:\Work\Monitoring\MonitorProject\CMonAutoSetup\obj\Release\CMonAutoSetup.exe
+F:\Work\Monitoring\MonitorProject\CMonAutoSetup\obj\Release\CMonAutoSetup.pdb
+F:\Work\Monitoring\Target\CMonAutoSetup.exe.config
+F:\Work\Monitoring\Target\CMonAutoSetup.exe
+F:\Work\Monitoring\Target\CMonAutoSetup.pdb

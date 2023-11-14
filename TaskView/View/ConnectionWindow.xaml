@@ -1,0 +1,59 @@
+﻿<Window x:Class="Monitor.TaskView.View.ConnectionWindow"
+         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        xmlns:globals="clr-namespace:Monitor.TaskView.Globals"    
+        xmlns:controls="clr-namespace:Monitor.TaskView.Resource"
+        xmlns:local="clr-namespace:Monitor.TaskView.View"       
+        Height="300" Width="600" 
+        BorderBrush="Black" 
+        WindowStartupLocation="CenterScreen" 
+        ResizeMode="NoResize"
+        BorderThickness="1" 
+        Loaded="Window_Loaded" 
+        Background="#FFFAFAFA">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#eeeeee" Offset="0" />
+                <GradientStop Color="#c3c3c3" Offset="1" />
+                <GradientStop Color="#eeeeee" Offset="0.866" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid MouseMove="Grid_MouseMove" Background="#FF40A6D1" Margin="0,0,0,10">
+            <Grid.Effect>
+                <DropShadowEffect BlurRadius="10" ShadowDepth="3" Direction="270" Opacity="0.2" />
+            </Grid.Effect>
+            <controls:HeaderDecoration Margin="0,0,1,0" />
+            <Image x:Name="AVARTA" Height="23" Width="23" Panel.ZIndex="1" HorizontalAlignment="Left" Margin="12,0,0,7" Source="/Resource/net-on.png" Stretch="Uniform" RenderTransformOrigin="0.396,1.005" VerticalAlignment="Bottom"/>
+
+            <Label Content="TaskView Connection Wizard" FontSize="20" FontWeight="SemiBold" Foreground="White" Margin="35,0,0,0"
+                   RenderTransformOrigin="0.5,0.5" />
+        </Grid>
+        <Grid Grid.Column="0" Margin="0,40,0,0" Grid.Row="0" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="70" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="70" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="1" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Label Padding="0 5" Grid.Column="1" Grid.Row="1" x:Name="StatusLabel" Content="Connecting..."
+                   Foreground="#FF898888" BorderThickness="1" FontSize="13" />
+            <ProgressBar Style="{DynamicResource FlatProgressBar}" Grid.Column="1" Grid.Row="2" x:Name="StatusProgressBar" Height="14" Background="{x:Null}"
+                         Foreground="#FF40A6D1" />
+            <ProgressBar Style="{DynamicResource FlatProgressBar}" Grid.Column="1" Grid.Row="4" x:Name="OveralStatusProgressBar" Height="14"
+                         Background="{x:Null}" Foreground="#FF40A6D1" />
+        </Grid>
+    </Grid>
+</Window>

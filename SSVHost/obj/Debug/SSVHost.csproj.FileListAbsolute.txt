@@ -1,0 +1,10 @@
+F:\Work\Monitoring\MonitorProject\SSVHost\bin\Debug\SSVHost.exe.config
+F:\Work\Monitoring\MonitorProject\SSVHost\bin\Debug\SSVHost.exe
+F:\Work\Monitoring\MonitorProject\SSVHost\bin\Debug\SSVHost.pdb
+F:\Work\Monitoring\Target\SRMHost.exe.config
+F:\Work\Monitoring\Target\SRMHost.exe
+F:\Work\Monitoring\Target\SRMHost.pdb
+F:\Work\Monitoring\MonitorProject\SSVHost\obj\Debug\SSVHost.csproj.CoreCompileInputs.cache
+F:\Work\Monitoring\MonitorProject\SSVHost\obj\Debug\SRMHost.exe
+F:\Work\Monitoring\MonitorProject\SSVHost\obj\Debug\SRMHost.pdb
+F:\Work\Monitoring\MonitorProject\SSVHost\obj\Debug\SSVHost.csprojAssemblyReference.cache

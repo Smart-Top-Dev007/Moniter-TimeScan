@@ -1,0 +1,154 @@
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\TaskControl.csprojAssemblyReference.cache
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\CustomMsg.g.cs
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\LoginWindow.g.cs
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\MainWindow.g.cs
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\Resource\HeaderDecoration.g.cs
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\SlideWindow.g.cs
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\App.g.cs
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\TaskControl_MarkupCompile.cache
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\TaskControl_MarkupCompile.lref
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\bin\Debug\TaskControl.exe.config
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\bin\Debug\TaskControl.exe
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\bin\Debug\TaskControl.pdb
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\App.baml
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\UserControl\CommonDictionary.baml
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\CustomMsg.baml
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\LoginWindow.baml
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\MainWindow.baml
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\Resource\HeaderDecoration.baml
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\SlideWindow.baml
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\TaskControl.g.resources
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\TaskControl.Properties.Resources.resources
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\TaskControl.csproj.GenerateResource.cache
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\TaskControl.csproj.CoreCompileInputs.cache
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\TaskControl.exe
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\TaskControl.pdb
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\pnlMessage.g.cs
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\pnlSample.g.cs
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\pnlSetting_Client.g.cs
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\Popup_Screen.g.cs
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\pnlMessage.baml
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\pnlSample.baml
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\pnlSetting_Client.baml
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\View\Popup_Screen.baml
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\UserControl\HeaderDecoration.baml
+E:\WorkSpace\New folder\Project4\trunk\MonitorProject\TaskControl\obj\Debug\UserControl\HeaderDecoration.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\bin\Debug\Monitor.TaskControl.exe.config
+F:\Work\Monitoring\MonitorProject\TaskControl\bin\Debug\Monitor.TaskControl.exe
+F:\Work\Monitoring\MonitorProject\TaskControl\bin\Debug\Monitor.TaskControl.pdb
+F:\Work\Monitoring\Target\Monitor.TaskControl.exe.config
+F:\Work\Monitoring\Target\Monitor.TaskControl.exe
+F:\Work\Monitoring\Target\Monitor.TaskControl.pdb
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\UserControl\HeaderDecoration.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\UserControl\HeaderDecoration.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\ConditionMsg.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\CustomMsg.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\LoginWindow.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\MainWindow.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\Resource\HeaderDecoration.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\NotificationWindow.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\pnlMessage.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\pnlSample.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\pnlSetting_Client.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\pnlUrl_Client.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\Popup_Screen.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\RemoteWindow.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\SlideWindow.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\App.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\Monitor.TaskControl_MarkupCompile.cache
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\Monitor.TaskControl_MarkupCompile.lref
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\App.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\UserControl\CommonDictionary.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\ConditionMsg.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\CustomMsg.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\LoginWindow.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\MainWindow.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\Resource\HeaderDecoration.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\NotificationWindow.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\pnlMessage.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\pnlSample.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\pnlSetting_Client.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\pnlUrl_Client.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\Popup_Screen.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\RemoteWindow.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\SlideWindow.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\Monitor.TaskControl.g.resources
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\Monitor.TaskControl.Properties.Resources.resources
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\TaskControl.csproj.GenerateResource.cache
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\TaskControl.csproj.CoreCompileInputs.cache
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\Monitor.TaskControl.exe
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\Monitor.TaskControl.pdb
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\TaskControl.csproj.CopyComplete
+F:\Work\Monitoring\Target\x64\opencv_world411.dll
+F:\Work\Monitoring\Target\x64\yolo_cpp_dll_cpu.dll
+F:\Work\Monitoring\Target\x64\yolo_cpp_dll_gpu.dll
+F:\Work\Monitoring\Target\x64\pthreadVC2.dll
+F:\Work\Monitoring\Target\x64\pthreadGC2.dll
+F:\Work\Monitoring\Target\x64\msvcr100.dll
+F:\Work\Monitoring\Target\yolov2-tiny-voc.cfg
+F:\Work\Monitoring\Target\yolov2-tiny-voc.weights
+F:\Work\Monitoring\Target\voc.names
+E:\WorkSpace\RyonBong_\Target\x64\opencv_world411.dll
+E:\WorkSpace\RyonBong_\Target\x64\yolo_cpp_dll_cpu.dll
+E:\WorkSpace\RyonBong_\Target\x64\yolo_cpp_dll_gpu.dll
+E:\WorkSpace\RyonBong_\Target\x64\pthreadVC2.dll
+E:\WorkSpace\RyonBong_\Target\x64\pthreadGC2.dll
+E:\WorkSpace\RyonBong_\Target\x64\msvcr100.dll
+E:\WorkSpace\RyonBong_\Target\yolov2-tiny-voc.cfg
+E:\WorkSpace\RyonBong_\Target\yolov2-tiny-voc.weights
+E:\WorkSpace\RyonBong_\Target\voc.names
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\TaskControl.csprojAssemblyReference.cache
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\UserControl\HeaderDecoration.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\UserControl\HeaderDecoration.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\ConditionMsg.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\CustomMsg.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\ExplorerWindow.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\ImageModal.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\LoginWindow.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\MainWindow.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\Resource\HeaderDecoration.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\NotificationWindow.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\pnlMessage.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\pnlSample.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\pnlSetting_Client.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\pnlUrl_Client.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\Popup_Screen.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\RemoteWindow.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\SlideWindow.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\App.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\Monitor.TaskControl_MarkupCompile.cache
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\Monitor.TaskControl_MarkupCompile.lref
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\App.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\UserControl\CommonDictionary.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\ConditionMsg.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\CustomMsg.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\ExplorerWindow.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\ImageModal.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\LoginWindow.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\MainWindow.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\Resource\HeaderDecoration.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\NotificationWindow.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\pnlMessage.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\pnlSample.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\pnlSetting_Client.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\pnlUrl_Client.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\Popup_Screen.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\RemoteWindow.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\View\SlideWindow.baml
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\Monitor.TaskControl.g.resources
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\Monitor.TaskControl.Properties.Resources.resources
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\TaskControl.csproj.GenerateResource.cache
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\TaskControl.csproj.CoreCompileInputs.cache
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\TaskControl.csproj.CopyComplete
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\Monitor.TaskControl.exe
+E:\WorkSpace\RyonBong_\MonitorProject\TaskControl\obj\Debug\Monitor.TaskControl.pdb
+E:\WorkSpace\RyonBong_\Target\Monitor.TaskControl.exe.config
+E:\WorkSpace\RyonBong_\Target\Monitor.TaskControl.exe
+E:\WorkSpace\RyonBong_\Target\Monitor.TaskControl.pdb
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\ExplorerWindow.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\ImageModal.g.cs
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\ExplorerWindow.baml
+F:\Work\Monitoring\MonitorProject\TaskControl\obj\Debug\View\ImageModal.baml

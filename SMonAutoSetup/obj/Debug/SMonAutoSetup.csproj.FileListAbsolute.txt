@@ -1,0 +1,10 @@
+F:\Work\Monitoring\MonitorProject\SMonAutoSetup\bin\Debug\SMonAutoSetup.exe.config
+F:\Work\Monitoring\MonitorProject\SMonAutoSetup\bin\Debug\SMonAutoSetup.exe
+F:\Work\Monitoring\MonitorProject\SMonAutoSetup\bin\Debug\SMonAutoSetup.pdb
+F:\Work\Monitoring\Target\SMonAutoSetup.exe.config
+F:\Work\Monitoring\Target\SMonAutoSetup.exe
+F:\Work\Monitoring\Target\SMonAutoSetup.pdb
+F:\Work\Monitoring\MonitorProject\SMonAutoSetup\obj\Debug\SMonAutoSetup.csproj.CoreCompileInputs.cache
+F:\Work\Monitoring\MonitorProject\SMonAutoSetup\obj\Debug\SMonAutoSetup.exe
+F:\Work\Monitoring\MonitorProject\SMonAutoSetup\obj\Debug\SMonAutoSetup.pdb
+F:\Work\Monitoring\MonitorProject\SMonAutoSetup\obj\Debug\SMonAutoSetup.csprojAssemblyReference.cache

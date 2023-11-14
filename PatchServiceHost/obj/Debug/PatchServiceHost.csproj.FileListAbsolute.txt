@@ -1,0 +1,6 @@
+F:\Work\Monitoring\Target\PatchServiceHost.exe.config
+F:\Work\Monitoring\Target\PatchServiceHost.exe
+F:\Work\Monitoring\Target\PatchServiceHost.pdb
+F:\Work\Monitoring\MonitorProject\PatchServiceHost\obj\Debug\PatchServiceHost.csproj.CoreCompileInputs.cache
+F:\Work\Monitoring\MonitorProject\PatchServiceHost\obj\Debug\PatchServiceHost.exe
+F:\Work\Monitoring\MonitorProject\PatchServiceHost\obj\Debug\PatchServiceHost.pdb

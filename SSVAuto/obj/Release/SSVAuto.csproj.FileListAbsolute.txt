@@ -1,0 +1,7 @@
+F:\Work\Monitoring\MonitorProject\SSVAuto\obj\Release\SSVAuto.csproj.CoreCompileInputs.cache
+F:\Work\Monitoring\MonitorProject\SSVAuto\bin\Release\SRMAuto.exe.config
+F:\Work\Monitoring\MonitorProject\SSVAuto\bin\Release\SRMAuto.exe
+F:\Work\Monitoring\MonitorProject\SSVAuto\bin\Release\SRMAuto.pdb
+F:\Work\Monitoring\MonitorProject\SSVAuto\obj\Release\SSVAuto.csprojAssemblyReference.cache
+F:\Work\Monitoring\MonitorProject\SSVAuto\obj\Release\SRMAuto.exe
+F:\Work\Monitoring\MonitorProject\SSVAuto\obj\Release\SRMAuto.pdb

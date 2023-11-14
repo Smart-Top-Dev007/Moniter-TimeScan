@@ -1,0 +1,6 @@
+F:\Work\Monitoring\Target\PatchServiceAuto.exe.config
+F:\Work\Monitoring\Target\PatchServiceAuto.exe
+F:\Work\Monitoring\Target\PatchServiceAuto.pdb
+F:\Work\Monitoring\MonitorProject\PatchServiceAuto\obj\Release\PatchServiceAuto.csproj.CoreCompileInputs.cache
+F:\Work\Monitoring\MonitorProject\PatchServiceAuto\obj\Release\PatchServiceAuto.exe
+F:\Work\Monitoring\MonitorProject\PatchServiceAuto\obj\Release\PatchServiceAuto.pdb

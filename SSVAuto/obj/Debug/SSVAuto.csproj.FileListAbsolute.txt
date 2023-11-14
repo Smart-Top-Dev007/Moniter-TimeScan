@@ -1,0 +1,10 @@
+F:\Work\Monitoring\MonitorProject\SSVAuto\bin\Debug\SSVAuto.exe.config
+F:\Work\Monitoring\MonitorProject\SSVAuto\bin\Debug\SSVAuto.exe
+F:\Work\Monitoring\MonitorProject\SSVAuto\bin\Debug\SSVAuto.pdb
+F:\Work\Monitoring\Target\SRMAuto.exe.config
+F:\Work\Monitoring\Target\SRMAuto.exe
+F:\Work\Monitoring\Target\SRMAuto.pdb
+F:\Work\Monitoring\MonitorProject\SSVAuto\obj\Debug\SSVAuto.csproj.CoreCompileInputs.cache
+F:\Work\Monitoring\MonitorProject\SSVAuto\obj\Debug\SRMAuto.exe
+F:\Work\Monitoring\MonitorProject\SSVAuto\obj\Debug\SRMAuto.pdb
+F:\Work\Monitoring\MonitorProject\SSVAuto\obj\Debug\SSVAuto.csprojAssemblyReference.cache

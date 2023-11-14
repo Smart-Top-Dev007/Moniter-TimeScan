@@ -1,0 +1,10 @@
+F:\Work\Monitoring\MonitorProject\CSVAuto\bin\Debug\CSVAuto.exe.config
+F:\Work\Monitoring\MonitorProject\CSVAuto\bin\Debug\CSVAuto.exe
+F:\Work\Monitoring\MonitorProject\CSVAuto\bin\Debug\CSVAuto.pdb
+F:\Work\Monitoring\Target\CRMAuto.exe.config
+F:\Work\Monitoring\Target\CRMAuto.exe
+F:\Work\Monitoring\Target\CRMAuto.pdb
+F:\Work\Monitoring\MonitorProject\CSVAuto\obj\Debug\CSVAuto.csproj.CoreCompileInputs.cache
+F:\Work\Monitoring\MonitorProject\CSVAuto\obj\Debug\CRMAuto.exe
+F:\Work\Monitoring\MonitorProject\CSVAuto\obj\Debug\CRMAuto.pdb
+F:\Work\Monitoring\MonitorProject\CSVAuto\obj\Debug\CSVAuto.csprojAssemblyReference.cache

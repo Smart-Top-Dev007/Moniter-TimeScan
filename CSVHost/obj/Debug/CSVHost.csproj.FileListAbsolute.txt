@@ -1,0 +1,11 @@
+F:\Work\Monitoring\MonitorProject\CSVHost\bin\Debug\CSVHost.exe.config
+F:\Work\Monitoring\MonitorProject\CSVHost\bin\Debug\CSVHost.exe
+F:\Work\Monitoring\MonitorProject\CSVHost\bin\Debug\CSVHost.pdb
+F:\Work\Monitoring\Target\CRMHost.exe.config
+F:\Work\Monitoring\Target\CRMHost.exe
+F:\Work\Monitoring\Target\CRMHost.pdb
+F:\Work\Monitoring\MonitorProject\CSVHost\obj\Debug\CSVHost.csproj.CoreCompileInputs.cache
+F:\Work\Monitoring\MonitorProject\CSVHost\obj\Debug\CSVHost.csproj.CopyComplete
+F:\Work\Monitoring\MonitorProject\CSVHost\obj\Debug\CRMHost.exe
+F:\Work\Monitoring\MonitorProject\CSVHost\obj\Debug\CRMHost.pdb
+F:\Work\Monitoring\MonitorProject\CSVHost\obj\Debug\CSVHost.csprojAssemblyReference.cache

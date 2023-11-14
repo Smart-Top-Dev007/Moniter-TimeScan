@@ -1,0 +1,10 @@
+F:\Work\Monitoring\MonitorProject\SystemService\bin\Debug\SystemService.exe
+F:\Work\Monitoring\MonitorProject\SystemService\bin\Debug\SystemService.pdb
+F:\Work\Monitoring\MonitorProject\SystemService\bin\Debug\ProcessExtensions.dll
+F:\Work\Monitoring\MonitorProject\SystemService\obj\Debug\SystemService.Service1.resources
+F:\Work\Monitoring\MonitorProject\SystemService\obj\Debug\SystemService.csproj.GenerateResource.cache
+F:\Work\Monitoring\MonitorProject\SystemService\obj\Debug\SystemService.csproj.CoreCompileInputs.cache
+F:\Work\Monitoring\MonitorProject\SystemService\obj\Debug\SystemService.csproj.CopyComplete
+F:\Work\Monitoring\MonitorProject\SystemService\obj\Debug\SystemService.exe
+F:\Work\Monitoring\MonitorProject\SystemService\obj\Debug\SystemService.pdb
+F:\Work\Monitoring\MonitorProject\SystemService\obj\Debug\SystemService.csprojAssemblyReference.cache
